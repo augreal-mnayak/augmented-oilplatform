@@ -1,0 +1,3 @@
+--------- beginning of /dev/log/main
+E/wpa_supplicant(  380): Unsupported command: BTCOEXMODE 1
+E/wpa_supplicant(  380): Unsupported command: BTCOEXMODE 2
